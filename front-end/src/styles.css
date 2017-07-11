@@ -1,0 +1,21 @@
+/* line 6, ../compass/sass/views/_home.scss */
+* {
+  color: black;
+}
+
+/* line 28, ../compass/sass/styles.scss */
+.auctionImage {
+  max-width: 30%;
+}
+
+/* line 36, ../compass/sass/styles.scss */
+.loginForm {
+  margin: auto;
+  max-width: 450px;
+}
+
+/* line 40, ../compass/sass/styles.scss */
+.loginPage {
+  background: url("../images/old-wrinkled-yellow.jpg") no-repeat fixed;
+  background-size: cover;
+}
